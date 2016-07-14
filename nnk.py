@@ -14,3 +14,5 @@ while(t!=0):
 
 for x in list:
 	print(int(x))
+
+print hello
