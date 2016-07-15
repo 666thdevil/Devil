@@ -20,3 +20,4 @@ print nnk
 print sabarish
 print prabha
 print chethan
+print maglin
