@@ -16,3 +16,4 @@ for x in list:
 	print(int(x))
 
 print hello
+print nnk
