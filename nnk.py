@@ -26,3 +26,4 @@ print shubh
 print hi
 print ih
 print yee haw
+print amit
